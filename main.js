@@ -19,7 +19,10 @@ $(document).ready(function () {
     "method": "GET",
     cache: true,
     "timeout": 0,
-    "headers": {},
+     "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
     dataSrc: function (json) {
       const data = _.get(json, 'filtered.data');
       const price = _.get(json, 'records.underlyingValue');
@@ -98,11 +101,11 @@ $(document).ready(function () {
         $('td', row).css('background-color', 'Orange');
       }
 
-      if (data['peOptionPremium'] !== 0 && data['peOptionPremium'] > -10 && data['peOptionPremium'] < 10 && data['peOptionPremium'] < 200) {
-        $('td', row).css('background-color', 'green');
+      if (data['peOptionPremium'] !== 0 && data['peOptionPremium'] > -10 && data['peOptionPremium'] < 10 && data['peOptionLastPrice'] < 200) {
+        $('td', row).css('background-color', 'yellow');
       }
 
-      if (data['ceOptionPremium'] !== 0 && data['ceOptionPremium'] < 10 && data['ceOptionLastPrice'] < 200) {
+      if (data['ceOptionPremium'] !== 0 && data['ceOptionPremium'] > -10 && data['ceOptionPremium'] < 10 && data['ceOptionLastPrice'] < 200) {
         $('td', row).css('background-color', 'green');
       }
     }
