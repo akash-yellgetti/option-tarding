@@ -66,7 +66,7 @@ $(document).ready(function () {
     ajax: settings,
 
     "pageLength": 50,
-    // "order": [[ 3, "asc" ]],
+    "order": [[ 5, "asc" ]],
     "columns": [{
         "data": "expiryDate"
       },
