@@ -98,11 +98,11 @@ $(document).ready(function () {
         $('td', row).css('background-color', 'Orange');
       }
 
-      if (data['peOptionPremium'] > 0 && data['peOptionPremium'] < 10 && data['peOptionPremium'] < 200) {
+      if (data['peOptionPremium'] !== 0 && data['peOptionPremium'] > -10 && data['peOptionPremium'] < 10 && data['peOptionPremium'] < 200) {
         $('td', row).css('background-color', 'green');
       }
 
-      if (data['ceOptionPremium'] > 0 && data['ceOptionPremium'] < 10 && data['ceOptionLastPrice'] < 200) {
+      if (data['ceOptionPremium'] !== 0 && data['ceOptionPremium'] < 10 && data['ceOptionLastPrice'] < 200) {
         $('td', row).css('background-color', 'green');
       }
     }
