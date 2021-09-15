@@ -1,13 +1,25 @@
 $(document).ready(function () {
+  $("#NIFTY").attr('checked', true);
+
+  let url = "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY";
+  $('input[type=radio][name=market]').change(function () {
+    if (this.value == 'NIFTY') {
+      url = "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
+    } else if (this.value == 'BANKNIFTY') {
+      url = "https://www.nseindia.com/api/option-chain-indices?symbol=BANKNIFTY"
+    }
+    // console.log(url);
+    // table.table().ajax().reload()
+    table.ajax.url(url).load();
+  });
 
 
   var settings = {
-    "url": "https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY",
+    url,
     "method": "GET",
     cache: true,
     "timeout": 0,
-    "headers": {
-    },
+    "headers": {},
     dataSrc: function (json) {
       const data = _.get(json, 'filtered.data');
       const price = _.get(json, 'records.underlyingValue');
