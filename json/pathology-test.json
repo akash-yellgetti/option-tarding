@@ -1,0 +1,1134 @@
+[
+  {
+    "name": "CBC / Hemogram / Complete Blood Count",
+    "price": 200
+  },
+  {
+    "name": "ESR / Erythrocyte sedimentation rate",
+    "price": 100
+  },
+  {
+    "name": "MP - Slide Method / Malaria by smear",
+    "price": 100
+  },
+  {
+    "name": "Blood Group",
+    "price": 100
+  },
+  {
+    "name": "Bleeding Time / BT",
+    "price": 125
+  },
+  {
+    "name": "Clotting Time / CT",
+    "price": 125
+  },
+  {
+    "name": "Prothombin time / PT",
+    "price": 350
+  },
+  {
+    "name": "Partial Thromboplastin time / APTT",
+    "price": 450
+  },
+  {
+    "name": "Reticulocyte count / Retic Count",
+    "price": 250
+  },
+  {
+    "name": "Hemoglobin / Hb",
+    "price": 150
+  },
+  {
+    "name": "Platlet count / Plt Count",
+    "price": 150
+  },
+  {
+    "name": "G6PD / GLUCOSE - 6 - PHOSPHATE DEHYDROGENASE",
+    "price": 450
+  },
+  {
+    "name": "PT & APTT",
+    "price": 800
+  },
+  {
+    "name": "Serum Acid Phosphatase Total",
+    "price": 300
+  },
+  {
+    "name": "Serum Acid Phosphatase (Total + Prostatc Fraction)",
+    "price": 600
+  },
+  {
+    "name": "ADA / Adenosine deaminase",
+    "price": 750
+  },
+  {
+    "name": "Albumin",
+    "price": 150
+  },
+  {
+    "name": "Alkaline Phosphatase",
+    "price": 150
+  },
+  {
+    "name": "Amylase",
+    "price": 450
+  },
+  {
+    "name": "Albumin - Creatinine Ratio - Urinanry spot",
+    "price": 300
+  },
+  {
+    "name": "Ammonia",
+    "price": 1100
+  },
+  {
+    "name": "Bicarbonate",
+    "price": 450
+  },
+  {
+    "name": "Bilirubin (Direct) - Serum",
+    "price": 150
+  },
+  {
+    "name": "Bilirubin (Direct, Indirect, Total)",
+    "price": 150
+  },
+  {
+    "name": "Bilirubin (Indirect) - Serum",
+    "price": 150
+  },
+  {
+    "name": "Bilirubin (Total) Serum",
+    "price": 150
+  },
+  {
+    "name": "Blood Urea",
+    "price": 150
+  },
+  {
+    "name": "Bun / Creatinine ratio",
+    "price": 300
+  },
+  {
+    "name": "Calcium",
+    "price": 150
+  },
+  {
+    "name": "Chloride - Serum",
+    "price": 250
+  },
+  {
+    "name": "Cholesterol - Total",
+    "price": 150
+  },
+  {
+    "name": "Cholesterol-HDL / HDL",
+    "price": 200
+  },
+  {
+    "name": "Cholesterol-LDL / LDL",
+    "price": 350
+  },
+  {
+    "name": "Creatinine",
+    "price": 150
+  },
+  {
+    "name": "Creatinine Clearance",
+    "price": 450
+  },
+  {
+    "name": "Creatinine Phosphokinase / CPK / CK-NAC / CPK-TOTAL",
+    "price": 400
+  },
+  {
+    "name": "Creatinine Phosphokinase - MB / CPKMB",
+    "price": 550
+  },
+  {
+    "name": "Electrolyte",
+    "price": 500
+  },
+  {
+    "name": "Gamma glutamyl Transferase",
+    "price": 150
+  },
+  {
+    "name": "Glucose / Sugar - Random",
+    "price": 60
+  },
+  {
+    "name": "Glucose / Sugar - Fasting",
+    "price": 60
+  },
+  {
+    "name": "Glucose / Sugar - Prandial",
+    "price": 60
+  },
+  {
+    "name": "Glucose tolerance test",
+    "price": 350
+  },
+  {
+    "name": "Iron - Serum",
+    "price": 400
+  },
+  {
+    "name": "Lactate Plasma",
+    "price": 1000
+  },
+  {
+    "name": "LFT",
+    "price": 700
+  },
+  {
+    "name": "Lactate dehydrogenase / LDH",
+    "price": 350
+  },
+  {
+    "name": "Lipid Profile",
+    "price": 600
+  },
+  {
+    "name": "Lipase",
+    "price": 600
+  },
+  {
+    "name": "Magnesium - Serum",
+    "price": 350
+  },
+  {
+    "name": "Osmolality- Serum",
+    "price": 900
+  },
+  {
+    "name": "Phosphorus- Inorganic - Serum",
+    "price": 150
+  },
+  {
+    "name": "Potassium",
+    "price": 250
+  },
+  {
+    "name": "Proteins - Serum",
+    "price": 150
+  },
+  {
+    "name": "RFT",
+    "price": 900
+  },
+  {
+    "name": "RFT with electrolyte",
+    "price": 1350
+  },
+  {
+    "name": "SGOT / AST",
+    "price": 150
+  },
+  {
+    "name": "SGPT / ALT",
+    "price": 150
+  },
+  {
+    "name": "Sodium",
+    "price": 250
+  },
+  {
+    "name": "Triglycerides - Serum",
+    "price": 150
+  },
+  {
+    "name": "Urea - Serum",
+    "price": 150
+  },
+  {
+    "name": "Uric Acid - Serum",
+    "price": 150
+  },
+  {
+    "name": "Urine - Sodium",
+    "price": 400
+  },
+  {
+    "name": "Urine - Potassium",
+    "price": 400
+  },
+  {
+    "name": "Urine - Osmolality",
+    "price": 900
+  },
+  {
+    "name": "Urine - Chloride",
+    "price": 400
+  },
+  {
+    "name": "24 HOUR urinary ALBUMIN",
+    "price": 250
+  },
+  {
+    "name": "24 HOUR urinary CREATININE",
+    "price": 250
+  },
+  {
+    "name": "HIV (Rapid test)",
+    "price": 400
+  },
+  {
+    "name": "HAV",
+    "price": 700
+  },
+  {
+    "name": "HEV",
+    "price": 700
+  },
+  {
+    "name": "HbsAg",
+    "price": 350
+  },
+  {
+    "name": "HCV",
+    "price": 600
+  },
+  {
+    "name": "VDRL",
+    "price": 150
+  },
+  {
+    "name": "WIDAL (Tube Method)",
+    "price": 350
+  },
+  {
+    "name": "Widal",
+    "price": 150
+  },
+  {
+    "name": "Rheumatoid Arthritis / RA FACTOR QUANTITATIVE",
+    "price": 400
+  },
+  {
+    "name": "C Reactive Protein / CRP",
+    "price": 450
+  },
+  {
+    "name": "ASO",
+    "price": 450
+  },
+  {
+    "name": "Leptospira IgG",
+    "price": 900
+  },
+  {
+    "name": "Leptospira IgM",
+    "price": 900
+  },
+  {
+    "name": "Dengue NS1",
+    "price": 900
+  },
+  {
+    "name": "Dengue IgG",
+    "price": 900
+  },
+  {
+    "name": "Dengue IgM",
+    "price": 900
+  },
+  {
+    "name": "Malaria antigen",
+    "price": 450
+  },
+  {
+    "name": "Chikungunya IgM",
+    "price": 900
+  },
+  {
+    "name": "Typhi Dot Igm",
+    "price": 900
+  },
+  {
+    "name": "Typhi Dot",
+    "price": 550
+  },
+  {
+    "name": "TRIPLE H (HIV, HbsAg, HCV)",
+    "price": 1350
+  },
+  {
+    "name": "Urine Routine",
+    "price": 100
+  },
+  {
+    "name": "Stool Routine",
+    "price": 100
+  },
+  {
+    "name": "Urine Pregnancy Test / UPT",
+    "price": 150
+  },
+  {
+    "name": "Sputum - Routine",
+    "price": 200
+  },
+  {
+    "name": "Sputum - AFB - ONE DAY",
+    "price": 200
+  },
+  {
+    "name": "Semen",
+    "price": 500
+  },
+  {
+    "name": "Bence jones protines (QUALITATIVE)",
+    "price": 1000
+  },
+  {
+    "name": "IRON STUDIES",
+    "price": 750
+  },
+  {
+    "name": "Ferritin - Serum",
+    "price": 750
+  },
+  {
+    "name": "VIT. B12",
+    "price": 1000
+  },
+  {
+    "name": "25-Hydroxy Vitamin D / Vitamin D - Total",
+    "price": 1500
+  },
+  {
+    "name": "FOLIC ACID",
+    "price": 1100
+  },
+  {
+    "name": "HbA1c / Glycosalated Hemoglobin / Glyco Hb",
+    "price": 550
+  },
+  {
+    "name": "Abnormal Hemoglobinopathies",
+    "price": 1000
+  },
+  {
+    "name": "T3 / Triiodothyronine",
+    "price": 250
+  },
+  {
+    "name": "T4 / Thyroxine",
+    "price": 250
+  },
+  {
+    "name": "TSH / Thyroid Stimulating Hormone",
+    "price": 250
+  },
+  {
+    "name": "T3,T4,TSH",
+    "price": 500
+  },
+  {
+    "name": "TSH - ULTRASENSETIVE",
+    "price": 450
+  },
+  {
+    "name": "FREE T3 / FREE Triiodothyronine",
+    "price": 275
+  },
+  {
+    "name": "FREE T4 / FREE Thyroxine",
+    "price": 275
+  },
+  {
+    "name": "FREE T3, FREE T4, TSH",
+    "price": 725
+  },
+  {
+    "name": "THYROGLOBULIN",
+    "price": 1200
+  },
+  {
+    "name": "FSH / Follicle Stimulating Hormone",
+    "price": 500
+  },
+  {
+    "name": "LH / Leutinizing Hormone",
+    "price": 500
+  },
+  {
+    "name": "PROLACTIN",
+    "price": 500
+  },
+  {
+    "name": "FSH + LH",
+    "price": 1000
+  },
+  {
+    "name": "FSH, LH, PROLACTIN",
+    "price": 1300
+  },
+  {
+    "name": "Insulin/Diabetes Antibodies",
+    "price": 2000
+  },
+  {
+    "name": "IGF-1 / Diabetes related Growth Factor - 1",
+    "price": 2800
+  },
+  {
+    "name": "Diabetes - FASTING",
+    "price": 800
+  },
+  {
+    "name": "Diabetes - POST PRANDIAL",
+    "price": 800
+  },
+  {
+    "name": "C PEPTIDE",
+    "price": 1100
+  },
+  {
+    "name": "BETA - HCG",
+    "price": 1250
+  },
+  {
+    "name": "FREE - BETA - HCG",
+    "price": 1250
+  },
+  {
+    "name": "PROGESTRONE",
+    "price": 700
+  },
+  {
+    "name": "DHEAS / Dehydroepiandrosterone sulfate",
+    "price": 1000
+  },
+  {
+    "name": "TESTOSTERONE TOTAL",
+    "price": 700
+  },
+  {
+    "name": "FREE TESTOSTERONE",
+    "price": 1500
+  },
+  {
+    "name": "DIHYDRO TESTOSTERONE - DTH",
+    "price": 2500
+  },
+  {
+    "name": "E3 UNCONJUGATED ESTEROL",
+    "price": 1100
+  },
+  {
+    "name": "ESTRADIOL E2",
+    "price": 600
+  },
+  {
+    "name": "SHBG ( Sex Hormone Binding Globulin)",
+    "price": 2500
+  },
+  {
+    "name": "AMH / Anti Mullerian Hormone",
+    "price": 2000
+  },
+  {
+    "name": "ACTH / Adrenocorticotrophic Hormone",
+    "price": 1550
+  },
+  {
+    "name": "GROWTH HORMONE",
+    "price": 750
+  },
+  {
+    "name": "ANDROSTENIDONE",
+    "price": 1800
+  },
+  {
+    "name": "DIRECT RENIN",
+    "price": 4000
+  },
+  {
+    "name": "SR. ALDOSTERONE",
+    "price": 2500
+  },
+  {
+    "name": "SR. ACE LEVELS",
+    "price": 1100
+  },
+  {
+    "name": "SR. PARATHYROID HORMONE / PTH",
+    "price": 1500
+  },
+  {
+    "name": "AFP",
+    "price": 950
+  },
+  {
+    "name": "CEA",
+    "price": 1000
+  },
+  {
+    "name": "PSA",
+    "price": 750
+  },
+  {
+    "name": "Free PSA",
+    "price": 900
+  },
+  {
+    "name": "CA-125",
+    "price": 1100
+  },
+  {
+    "name": "CA - 15.3",
+    "price": 1250
+  },
+  {
+    "name": "CA - 19.9",
+    "price": 1250
+  },
+  {
+    "name": "HS-CRP / High Sensitivity C reactive protein",
+    "price": 700
+  },
+  {
+    "name": "Nt Pro BNP(B Type Natriuretic Peptide) - Serum",
+    "price": 2500
+  },
+  {
+    "name": "D-DIMER",
+    "price": 1200
+  },
+  {
+    "name": "LIPOPROTINE A",
+    "price": 800
+  },
+  {
+    "name": "Apolipoproteins A1",
+    "price": 600
+  },
+  {
+    "name": "Apolipoproteins B",
+    "price": 600
+  },
+  {
+    "name": "HOMOCYSTINE",
+    "price": 1150
+  },
+  {
+    "name": "CYSTATIN C",
+    "price": 1200
+  },
+  {
+    "name": "NGAL / Neutrophil gelatinase associated lipocalin-2",
+    "price": 2500
+  },
+  {
+    "name": "Interleukin - 6 / IL-6",
+    "price": 3000
+  },
+  {
+    "name": "Lp-PLA2 (lipoprotein- associated phospholipase)",
+    "price": 2500
+  },
+  {
+    "name": "PROCALCITONIN",
+    "price": 2200
+  },
+  {
+    "name": "CALCITONIN",
+    "price": 2200
+  },
+  {
+    "name": "IgE / Total IgE",
+    "price": 900
+  },
+  {
+    "name": "MICROALBUMIN - URINE",
+    "price": 400
+  },
+  {
+    "name": "CD4",
+    "price": 1500
+  },
+  {
+    "name": "CD3, CD4 & CD8",
+    "price": 2000
+  },
+  {
+    "name": "Ionized CALCIUM",
+    "price": 600
+  },
+  {
+    "name": "MAGNESIUM",
+    "price": 400
+  },
+  {
+    "name": "VMA - Vanillylmandelic Acid IN URINE",
+    "price": 3100
+  },
+  {
+    "name": "HLA-B27 - FLOWCYTOMETER",
+    "price": 2000
+  },
+  {
+    "name": "ANTI - CCP",
+    "price": 1100
+  },
+  {
+    "name": "Troponin - I QUALITATIVE",
+    "price": 1500
+  },
+  {
+    "name": "Troponin - T QUALITATIVE",
+    "price": 2000
+  },
+  {
+    "name": "B2-MICROGLOBULIN",
+    "price": 1500
+  },
+  {
+    "name": "ANA- BLOT / Anti-nuclear Antibody - BLOT",
+    "price": 3500
+  },
+  {
+    "name": "ANA - Screening by IF/ Anti-Nuclear Antibody Screening",
+    "price": 900
+  },
+  {
+    "name": "ANA - Screen(C.L.I.A.)",
+    "price": 800
+  },
+  {
+    "name": "ANTI DS-DNA ANTIBODY",
+    "price": 800
+  },
+  {
+    "name": "CARDIOLIPIN IgG",
+    "price": 750
+  },
+  {
+    "name": "CARDIOLIPIN IgM",
+    "price": 750
+  },
+  {
+    "name": "CARDIOLIPIN IgG & IgM",
+    "price": 1500
+  },
+  {
+    "name": "ANTI-PHOSPHOLIPID AB - IgG",
+    "price": 900
+  },
+  {
+    "name": "ANTI-PHOSPHOLIPID AB - IgM",
+    "price": 900
+  },
+  {
+    "name": "ANTI-PHOSPHOLIPID ANTIBODY IgG & IgM",
+    "price": 1800
+  },
+  {
+    "name": "DUAL MARKER - USG & CLINICAL DETAILS REQD.",
+    "price": 2300
+  },
+  {
+    "name": "TRIPLE MARKER - USG & CLINICAL DETAILS REQD.",
+    "price": 2700
+  },
+  {
+    "name": "QUADRAPLE MARKER - USG & CLINICAL DETAILS REQD.",
+    "price": 2900
+  },
+  {
+    "name": "TOXO -IgG",
+    "price": 600
+  },
+  {
+    "name": "TOXO -IgM",
+    "price": 600
+  },
+  {
+    "name": "RUBELLA IgG",
+    "price": 600
+  },
+  {
+    "name": "RUBELLA IgM",
+    "price": 600
+  },
+  {
+    "name": "CMV-IgG",
+    "price": 600
+  },
+  {
+    "name": "CMV-IgM",
+    "price": 600
+  },
+  {
+    "name": "HSV 1&2 IgG",
+    "price": 600
+  },
+  {
+    "name": "HSV 1&2 IgM",
+    "price": 600
+  },
+  {
+    "name": "TORCH - 8 (IgG+IgM)",
+    "price": 2600
+  },
+  {
+    "name": "TORCH 4 - IgG",
+    "price": 1450
+  },
+  {
+    "name": "TORCH 4 - IgM",
+    "price": 1450
+  },
+  {
+    "name": "DENGUE NS1- ELISA",
+    "price": 800
+  },
+  {
+    "name": "H1N1",
+    "price": 5000
+  },
+  {
+    "name": "HIV - WESTERNBLOT",
+    "price": 2500
+  },
+  {
+    "name": "HIV - DUO (E-CLIA, COBAS E411)",
+    "price": 750
+  },
+  {
+    "name": "TPHA - Treponema pallidum haemagglutination",
+    "price": 750
+  },
+  {
+    "name": "FNAC",
+    "price": 1500
+  },
+  {
+    "name": "Urine - Routine Culture & Sensitivity",
+    "price": 1200
+  },
+  {
+    "name": "Sputum - Routine Culture & Sensitivity",
+    "price": 1200
+  },
+  {
+    "name": "Pus - Routine Culture & Sensitivity",
+    "price": 1200
+  },
+  {
+    "name": "Blood Culture",
+    "price": 1800
+  },
+  {
+    "name": "GENE EXPERT FOR TB",
+    "price": 3000
+  },
+  {
+    "name": "MGIT RAPID TB CULTURE",
+    "price": 1200
+  },
+  {
+    "name": "MGIT CULTURE &1ST LINE SENSITIVITY",
+    "price": 5000
+  },
+  {
+    "name": "Fungal culture",
+    "price": 1500
+  },
+  {
+    "name": "EPTOIN",
+    "price": 1050
+  },
+  {
+    "name": "CARBAMAZEPINE",
+    "price": 1050
+  },
+  {
+    "name": "VALPROIC ACID",
+    "price": 850
+  },
+  {
+    "name": "IMMUNOHISTOCHEMISTRY PER MARKER",
+    "price": 1500
+  },
+  {
+    "name": "BODY FLUID ROUTINE EXAMINATION",
+    "price": 750
+  },
+  {
+    "name": "STONE ANALYSIS",
+    "price": 1000
+  },
+  {
+    "name": "Appendix / Appendectomy",
+    "price": 800
+  },
+  {
+    "name": "Gall Bladder / Cholecystectomy",
+    "price": 800
+  },
+  {
+    "name": "Fallopian tubes / Tubectomy",
+    "price": 800
+  },
+  {
+    "name": "Hemorrhoids / Hemorrhoidectomy",
+    "price": 800
+  },
+  {
+    "name": "Fistula / Fistulectomy",
+    "price": 800
+  },
+  {
+    "name": "Fissure in Ano",
+    "price": 800
+  },
+  {
+    "name": "Sinus",
+    "price": 800
+  },
+  {
+    "name": "Nasal Polyps",
+    "price": 800
+  },
+  {
+    "name": "Sebeceous cyst",
+    "price": 800
+  },
+  {
+    "name": "Endometrium",
+    "price": 800
+  },
+  {
+    "name": "Cervical Biopsy / Cervix Biopsy",
+    "price": 1000
+  },
+  {
+    "name": "Uterus Only / Hysterectomy",
+    "price": 1000
+  },
+  {
+    "name": "Fibroids / Leiyomyoma",
+    "price": 1000
+  },
+  {
+    "name": "Ectopic Pregnancy / Salpingectomy",
+    "price": 1000
+  },
+  {
+    "name": "Lymph Node (Non Malignant)",
+    "price": 1000
+  },
+  {
+    "name": "Very Small Tissue(less than 2 cms, except Biopsies)",
+    "price": 1000
+  },
+  {
+    "name": "Lipoma",
+    "price": 1000
+  },
+  {
+    "name": "Ovaries Less than 5 cms",
+    "price": 1200
+  },
+  {
+    "name": "Breast Lump Less Than 5 cms",
+    "price": 1200
+  },
+  {
+    "name": "Endoscopic Mucosal Biopsy (Buccal / Colon / Small intestine)",
+    "price": 1500
+  },
+  {
+    "name": "Small Specimen",
+    "price": 1200
+  },
+  {
+    "name": "Soft Tissue - Small",
+    "price": 1200
+  },
+  {
+    "name": "Cervix / Cervical CONE biopsy",
+    "price": 1500
+  },
+  {
+    "name": "Small intestine (NON TUMOR)",
+    "price": 1500
+  },
+  {
+    "name": "Large intestine (NON TUMOR)",
+    "price": 1500
+  },
+  {
+    "name": "TUR PROSTATE",
+    "price": 1500
+  },
+  {
+    "name": "Uterus with Ovaries",
+    "price": 1500
+  },
+  {
+    "name": "Breast Biopsy Tru-cut",
+    "price": 1500
+  },
+  {
+    "name": "Endo-Bronchial Biopsy / Laryngeal / Tracheal Biopsy",
+    "price": 1500
+  },
+  {
+    "name": "Orchidectmy (Non tumor)",
+    "price": 1500
+  },
+  {
+    "name": "URINARY BLADDER - TUR",
+    "price": 2500
+  },
+  {
+    "name": "Ovaries MORE than 5 cms",
+    "price": 2500
+  },
+  {
+    "name": "Breast Lump More Than 5 cms",
+    "price": 2500
+  },
+  {
+    "name": "Kidney (NONTUMOR)/ Nephrectomy (NONTUMOR)",
+    "price": 2500
+  },
+  {
+    "name": "Medium Specimen",
+    "price": 2500
+  },
+  {
+    "name": "Placenta",
+    "price": 2500
+  },
+  {
+    "name": "Liver Biopsy",
+    "price": 3500
+  },
+  {
+    "name": "Colectomy - TUMOR / Anterior Resection / APR / Abdominoperineal  \t  Resection",
+    "price": 3500
+  },
+  {
+    "name": "Uterus - TUMOR",
+    "price": 3500
+  },
+  {
+    "name": "Breast - MRM / Modified Radical Mastectomy",
+    "price": 3500
+  },
+  {
+    "name": "Commado Resection / RND / Modified RND / Radical Neck Dissection",
+    "price": 3500
+  },
+  {
+    "name": "Hemimandibulectomy with RND / Modified RND",
+    "price": 3500
+  },
+  {
+    "name": "Orchidectomy (TUMOR)",
+    "price": 3500
+  },
+  {
+    "name": "Kidney (TUMOR)/ Nephrectomy (TUMOR)",
+    "price": 3500
+  },
+  {
+    "name": "Large Specimen",
+    "price": 3500
+  },
+  {
+    "name": "Soft Tissue - Large",
+    "price": 3500
+  },
+  {
+    "name": "Gastrectomy / Esophagogastrectomy / Esophagectomy",
+    "price": 4500
+  },
+  {
+    "name": "Whipples Resection",
+    "price": 4500
+  },
+  {
+    "name": "Werthiem's Hysterectomy",
+    "price": 4500
+  },
+  {
+    "name": "Lung Lobectomy",
+    "price": 4500
+  },
+  {
+    "name": "Liver Resection",
+    "price": 4500
+  },
+  {
+    "name": "Radical Prostatectomy",
+    "price": 4500
+  },
+  {
+    "name": "FNAC",
+    "price": 800
+  },
+  {
+    "name": "PAP SMEAR",
+    "price": 350
+  },
+  {
+    "name": "Cerebrospinal Fluid / CSF - ROUTINE",
+    "price": 450
+  },
+  {
+    "name": "Body Fluid - ROUTINE",
+    "price": 440
+  },
+  {
+    "name": "Peritoneal Fluid - ROUTINE",
+    "price": 440
+  },
+  {
+    "name": "Ascitic Fluid - ROUTINE",
+    "price": 440
+  },
+  {
+    "name": "Fluid for malignant cells",
+    "price": 650
+  },
+  {
+    "name": "PRE OPERATIVE PROFILE",
+    "price": 2000
+  },
+  {
+    "name": "ANC Profile",
+    "price": 1200
+  },
+  {
+    "name": "FEVER PACKAGE",
+    "price": 2500
+  },
+  {
+    "name": "Bad obstretric history Profile ( BOH ) - COMPLETE",
+    "price": 6500
+  },
+  {
+    "name": "ARTHRITIS PROFILE - COMPLETE",
+    "price": 5500
+  },
+  {
+    "name": "ARTHIRTIS PROFILE - MINI",
+    "price": 2500
+  },
+  {
+    "name": "C.S.F TB PCR",
+    "price": 2000
+  },
+  {
+    "name": "TSH ReceptorAntibody",
+    "price": 4500
+  }
+]
