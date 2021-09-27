@@ -1,0 +1,23 @@
+{
+  "name": "optiontrading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-yellgetti/option-trading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash-yellgetti/option-trading/issues"
+  },
+  "homepage": "https://github.com/akash-yellgetti/option-trading#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "lodash": "^4.17.21"
+  }
+}
